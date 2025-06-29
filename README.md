@@ -35,31 +35,11 @@ npm run dev
 
 This will start both the backend and frontend using `concurrently`.
 
----
-
-## 🎯 Purpose
-
-I built this project to:
-
-- Strengthen my portfolio for software development placements
-- Practice building real-world full-stack applications
-- Explore end-to-end development with modern web technologies
-
----
-
 ## 📧 Contact
 
 Feel free to reach out for collaboration, placement opportunities, or feedback:
 
 **Email:** mourya.psv@gmail.com
-**GitHub:** https://github.com/YOUR_USERNAME
-**LinkedIn:** [Your LinkedIn URL]
-
----
-
-## 🪪 License
-
-This project is licensed under the MIT License.
 
 ```
 
